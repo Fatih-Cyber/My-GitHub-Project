@@ -3,7 +3,7 @@ public class Helloworld {
         System.out.println("ahgcgdgsacgg");
         //furhfgıhsfhrhfu
         //fudsgfuıshfuıshduf
-        //ofdkgokogkogk
+
     }
 
 
